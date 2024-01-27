@@ -1,0 +1,26 @@
+{
+  "fields": {
+    "summary": "Summary - Rest api create issue",
+    "issuetype": {
+      "id": "10002"
+    },
+    "project": {
+      "key": "PYMT"
+    },
+    "description": {
+      "type": "doc",
+      "version": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "This is the description. --> https://sivakarthikpara.atlassian.net/rest/api/3/issue",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
